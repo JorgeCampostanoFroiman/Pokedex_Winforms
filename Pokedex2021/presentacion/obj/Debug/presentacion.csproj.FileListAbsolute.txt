@@ -1,0 +1,63 @@
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\presentacion.exe
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\presentacion.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.frmPokemon.resources
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.exe
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.pdb
+C:\Users\Max\source\repos\Pokedex2021\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\Max\source\repos\Pokedex2021\presentacion\bin\Debug\presentacion.exe
+C:\Users\Max\source\repos\Pokedex2021\presentacion\bin\Debug\presentacion.pdb
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.frmPokemon.resources
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.exe
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.pdb
+C:\Users\Max\source\repos\Pokedex2021\presentacion\bin\Debug\dominio.dll
+C:\Users\Max\source\repos\Pokedex2021\presentacion\bin\Debug\negocio.dll
+C:\Users\Max\source\repos\Pokedex2021\presentacion\bin\Debug\dominio.pdb
+C:\Users\Max\source\repos\Pokedex2021\presentacion\bin\Debug\negocio.pdb
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\Max\source\repos\Pokedex2021\presentacion\obj\Debug\presentacion.frmElemento.resources
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\bin\Debug\presentacion.exe
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\bin\Debug\presentacion.pdb
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\bin\Debug\dominio.dll
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\bin\Debug\negocio.dll
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\bin\Debug\dominio.pdb
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\bin\Debug\negocio.pdb
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.csprojAssemblyReference.cache
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.frmElemento.resources
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.frmPokemon.resources
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.exe
+C:\Users\jcamp\Desktop\utn\2 año\Programación\pokedex-net-2021-master\presentacion\obj\Debug\presentacion.pdb
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\bin\Debug\presentacion.exe
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\bin\Debug\presentacion.pdb
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\bin\Debug\dominio.dll
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\bin\Debug\negocio.dll
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\bin\Debug\dominio.pdb
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\bin\Debug\negocio.pdb
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.frmElemento.resources
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.frmPokemon.resources
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.exe
+C:\Users\DELL\Documents\GitHub\Pokedex2021\presentacion\obj\Debug\presentacion.pdb
